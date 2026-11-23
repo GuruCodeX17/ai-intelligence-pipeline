@@ -1,0 +1,392 @@
+[
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "TechCrunch AI",
+            "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+        },
+        "content": {
+            "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+            "published_date": "2026-11-23T01:25:53+00:00",
+            "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+            "full_text": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "TechCrunch AI",
+            "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+        },
+        "content": {
+            "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
+            "published_date": "2026-11-22T21:14:07+00:00",
+            "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+            "full_text": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "TechCrunch AI",
+            "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+        },
+        "content": {
+            "title": "Why data centers are at the center of the Big Tech backlash",
+            "published_date": "2026-11-22T18:08:43+00:00",
+            "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+            "full_text": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "The Verge AI",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"
+        },
+        "content": {
+            "title": "Meta Muse can do your Black Friday shopping at Walmart",
+            "published_date": "2026-11-23T11:00:00+00:00",
+            "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without [\u2026]",
+            "full_text": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without [\u2026]"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "The Verge AI",
+            "url": "https://www.theverge.com/tech/1039851/major-tech-outages"
+        },
+        "content": {
+            "title": "We haven\u2019t seen the last of the major tech outages",
+            "published_date": "2026-11-22T22:48:02+00:00",
+            "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be [\u2026]",
+            "full_text": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be [\u2026]"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "The Verge AI",
+            "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
+        },
+        "content": {
+            "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+            "published_date": "2026-11-22T17:25:20+00:00",
+            "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to [\u2026]",
+            "full_text": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to [\u2026]"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "The Verge AI",
+            "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
+        },
+        "content": {
+            "title": "The vibe-coding revolution is coming to all the gadgets",
+            "published_date": "2026-11-22T13:00:00+00:00",
+            "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not [\u2026]",
+            "full_text": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not [\u2026]"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://github.com/apex-engine-dev/apex-verify"
+        },
+        "content": {
+            "title": "Show HN: Apex verify \u2013 an independent model writes the checks your AI skipped",
+            "published_date": "2026-11-23T11:55:06+00:00",
+            "summary": "Show HN: Apex verify \u2013 an independent model writes the checks your AI skipped",
+            "full_text": "Show HN: Apex verify \u2013 an independent model writes the checks your AI skipped (Discussed on Hacker News, points: 1)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://www.gostudio.ai/"
+        },
+        "content": {
+            "title": "Gostudio.ai \u2013 AI photo and video studio with 38 one-click tools",
+            "published_date": "2026-11-23T11:48:42+00:00",
+            "summary": "Gostudio.ai \u2013 AI photo and video studio with 38 one-click tools",
+            "full_text": "Gostudio.ai \u2013 AI photo and video studio with 38 one-click tools (Discussed on Hacker News, points: 1)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/"
+        },
+        "content": {
+            "title": "AI Riemann Hypothesis proof is true, independent mathematicians confirm",
+            "published_date": "2026-11-23T11:48:27+00:00",
+            "summary": "AI Riemann Hypothesis proof is true, independent mathematicians confirm",
+            "full_text": "AI Riemann Hypothesis proof is true, independent mathematicians confirm (Discussed on Hacker News, points: 2)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4"
+        },
+        "content": {
+            "title": "South Korean minister says he is too old to tackle AI exam cheating",
+            "published_date": "2026-11-23T11:45:15+00:00",
+            "summary": "South Korean minister says he is too old to tackle AI exam cheating",
+            "full_text": "South Korean minister says he is too old to tackle AI exam cheating (Discussed on Hacker News, points: 1)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer"
+        },
+        "content": {
+            "title": "AI may have solved math's greatest mystery. Can humans understand the answer?",
+            "published_date": "2026-11-23T11:10:13+00:00",
+            "summary": "AI may have solved math's greatest mystery. Can humans understand the answer?",
+            "full_text": "AI may have solved math's greatest mystery. Can humans understand the answer? (Discussed on Hacker News, points: 4)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://www.superlogical.com/updates/public-testing-beginning"
+        },
+        "content": {
+            "title": "Rex: Hashimoto's New Terminal Emulator and Multiplexer for AI Coding Agents",
+            "published_date": "2026-11-23T11:07:46+00:00",
+            "summary": "Rex: Hashimoto's New Terminal Emulator and Multiplexer for AI Coding Agents",
+            "full_text": "Rex: Hashimoto's New Terminal Emulator and Multiplexer for AI Coding Agents (Discussed on Hacker News, points: 2)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://github.com/ameesme/shoebox"
+        },
+        "content": {
+            "title": "Show HN: Crazy simple AI agent orchestration with Markdown and Containers",
+            "published_date": "2026-11-23T11:07:29+00:00",
+            "summary": "Show HN: Crazy simple AI agent orchestration with Markdown and Containers",
+            "full_text": "Show HN: Crazy simple AI agent orchestration with Markdown and Containers (Discussed on Hacker News, points: 2)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://www.symbiocit.com"
+        },
+        "content": {
+            "title": "Show HN: Stop using AI clones. Raise an AI with a Real ID and age",
+            "published_date": "2026-11-23T10:44:31+00:00",
+            "summary": "Show HN: Stop using AI clones. Raise an AI with a Real ID and age",
+            "full_text": "Show HN: Stop using AI clones. Raise an AI with a Real ID and age (Discussed on Hacker News, points: 2)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://www.signalvs.com/p/no-i-dont-think-ai-is-going-to-kill"
+        },
+        "content": {
+            "title": "I Don't Think AI Is Going to Kill Us All",
+            "published_date": "2026-11-23T10:43:44+00:00",
+            "summary": "I Don't Think AI Is Going to Kill Us All",
+            "full_text": "I Don't Think AI Is Going to Kill Us All (Discussed on Hacker News, points: 2)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://github.com/redhat-et/ripwire"
+        },
+        "content": {
+            "title": "RedHat-et/ripwire: The ripgrep of AI context",
+            "published_date": "2026-11-23T10:37:20+00:00",
+            "summary": "RedHat-et/ripwire: The ripgrep of AI context",
+            "full_text": "RedHat-et/ripwire: The ripgrep of AI context (Discussed on Hacker News, points: 1)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://github.com/fboldo/webmcp-tour"
+        },
+        "content": {
+            "title": "Guided tours for AI agents via WebMCP",
+            "published_date": "2026-11-23T10:36:41+00:00",
+            "summary": "Guided tours for AI agents via WebMCP",
+            "full_text": "Guided tours for AI agents via WebMCP (Discussed on Hacker News, points: 1)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://quesma.com/blog/how-much-to-spend-on-ai-per-engineer/"
+        },
+        "content": {
+            "title": "How much should you spend on AI per engineer?",
+            "published_date": "2026-11-23T10:36:32+00:00",
+            "summary": "How much should you spend on AI per engineer?",
+            "full_text": "How much should you spend on AI per engineer? (Discussed on Hacker News, points: 1)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://news.ycombinator.com/item?id=50609879"
+        },
+        "content": {
+            "title": "Did AI help solve Quantum Gravity too?",
+            "published_date": "2026-11-23T10:31:19+00:00",
+            "summary": "Did AI help solve Quantum Gravity too?",
+            "full_text": "Did AI help solve Quantum Gravity too? (Discussed on Hacker News, points: 1)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://spectrum.ieee.org/sram-memory-z2ram"
+        },
+        "content": {
+            "title": "Z2RAM Layers Promise Denser SRAM Memory for AI",
+            "published_date": "2026-11-23T10:19:01+00:00",
+            "summary": "Z2RAM Layers Promise Denser SRAM Memory for AI",
+            "full_text": "Z2RAM Layers Promise Denser SRAM Memory for AI (Discussed on Hacker News, points: 1)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://orchstep.dev/blog/write-your-pipeline-once-run-it-on-any-ci"
+        },
+        "content": {
+            "title": "OrchStep: Vendor-neutral pipelines turning AI session into replayable workflow",
+            "published_date": "2026-11-23T10:18:15+00:00",
+            "summary": "OrchStep: Vendor-neutral pipelines turning AI session into replayable workflow",
+            "full_text": "OrchStep: Vendor-neutral pipelines turning AI session into replayable workflow (Discussed on Hacker News, points: 1)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://hermitcrm.io/"
+        },
+        "content": {
+            "title": "Show HN: Hermit CRM a free open-source CRM for solopreneurs",
+            "published_date": "2026-11-23T10:09:02+00:00",
+            "summary": "Show HN: Hermit CRM a free open-source CRM for solopreneurs",
+            "full_text": "Show HN: Hermit CRM a free open-source CRM for solopreneurs (Discussed on Hacker News, points: 1)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://www.reddit.com/r/aigamedev/comments/1y2xvq2/steam_is_getting_86200_new_games_a_day_the_number/"
+        },
+        "content": {
+            "title": "Steam is getting ~86\u2013200 new games a day",
+            "published_date": "2026-11-23T10:08:58+00:00",
+            "summary": "Steam is getting ~86\u2013200 new games a day",
+            "full_text": "Steam is getting ~86\u2013200 new games a day (Discussed on Hacker News, points: 2)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://z.ai/blog/glm-5.4"
+        },
+        "content": {
+            "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+            "published_date": "2026-11-23T10:06:43+00:00",
+            "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+            "full_text": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer (Discussed on Hacker News, points: 154)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "NEWS",
+        "source": {
+            "name": "HackerNews AI Signals",
+            "url": "https://theintercept.com/2026/11/21/trump-jason-watson-air-force-solitary-speech/"
+        },
+        "content": {
+            "title": "An Air Force Major Is Being Held in Solitary Confinement for Criticizing Trump",
+            "published_date": "2026-11-23T10:04:39+00:00",
+            "summary": "An Air Force Major Is Being Held in Solitary Confinement for Criticizing Trump",
+            "full_text": "An Air Force Major Is Being Held in Solitary Confinement for Criticizing Trump (Discussed on Hacker News, points: 6)"
+        },
+        "collectedAt": "2026-11-23T12:02:01.474675+00:00"
+    }
+]

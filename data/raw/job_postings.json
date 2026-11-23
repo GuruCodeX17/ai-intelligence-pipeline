@@ -1,0 +1,1826 @@
+[
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156681-solutions-engineer-critical-infrastructure"
+        },
+        "content": {
+            "company": "Echodyne",
+            "title": "Solutions Engineer - Critical Infrastructure",
+            "date": "2026-11-23T03:50:27+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156680-senior-android-engineer-4"
+        },
+        "content": {
+            "company": "Medium",
+            "title": "Senior Android Engineer",
+            "date": "2026-11-23T03:50:25+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156677-project-manager-6"
+        },
+        "content": {
+            "company": "Echodyne",
+            "title": "Project Manager",
+            "date": "2026-11-23T03:50:23+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156660-engineering-manager-switchboard"
+        },
+        "content": {
+            "company": "GitLab",
+            "title": "Engineering Manager, Switchboard",
+            "date": "2026-11-23T03:50:21+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156651-mobile-principal-software-engineer"
+        },
+        "content": {
+            "company": "dscout",
+            "title": "Mobile Principal Software Engineer",
+            "date": "2026-11-23T03:50:20+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156648-manager-professional-services-federal"
+        },
+        "content": {
+            "company": "Collibra",
+            "title": "Manager, Professional Services Federal",
+            "date": "2026-11-23T03:50:18+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156647-cybersecurity-engineer"
+        },
+        "content": {
+            "company": "dscout",
+            "title": "Cybersecurity Engineer",
+            "date": "2026-11-23T03:50:16+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156682-bilingual-cx-specialist-french"
+        },
+        "content": {
+            "company": "Instacart",
+            "title": "Bilingual CX Specialist (French)",
+            "date": "2026-11-23T03:50:12+00:00",
+            "is_remote": true,
+            "role_family": "Data & Analytics"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156674-principal-product-manager-hts-api-marketplace"
+        },
+        "content": {
+            "company": "Hopper",
+            "title": "Principal Product Manager, HTS API Marketplace",
+            "date": "2026-11-23T03:50:10+00:00",
+            "is_remote": true,
+            "role_family": "Product"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156663-solutions-manager-german-fluency"
+        },
+        "content": {
+            "company": "Zip",
+            "title": "Solutions Manager- (German Fluency)",
+            "date": "2026-11-23T03:50:08+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156618-regional-general-manager-market-performance-central-us"
+        },
+        "content": {
+            "company": "Luna Physical Therapy",
+            "title": "Regional General Manager, Market Performance Central US",
+            "date": "2026-11-23T03:45:43+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156668-onboarding-specialist-remote-mexico"
+        },
+        "content": {
+            "company": "Housecall Pro",
+            "title": "Onboarding Specialist (Remote - Mexico)",
+            "date": "2026-11-23T03:45:42+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156653-content-designer-ii-remote-eligible-costa-rica"
+        },
+        "content": {
+            "company": "Smartsheet",
+            "title": "Content Designer II (Remote Eligible - Costa Rica)",
+            "date": "2026-11-23T03:45:40+00:00",
+            "is_remote": true,
+            "role_family": "Design"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156650-commercial-account-executive-remote-eligible-costa-rica"
+        },
+        "content": {
+            "company": "Smartsheet",
+            "title": "Commercial Account Executive (Remote Eligible - Costa Rica)",
+            "date": "2026-11-23T03:45:38+00:00",
+            "is_remote": true,
+            "role_family": "Growth & Sales"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156633-business-development-representative-saas"
+        },
+        "content": {
+            "company": "AssetWatch",
+            "title": "Business Development Representative (SaaS)",
+            "date": "2026-11-23T03:45:37+00:00",
+            "is_remote": true,
+            "role_family": "Product"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156602-forward-deployed-engineer-8"
+        },
+        "content": {
+            "company": "Banyan Software",
+            "title": "Forward Deployed Engineer",
+            "date": "2026-11-23T03:45:33+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156675-cloud-alliances-business-development-lead"
+        },
+        "content": {
+            "company": "Canonical",
+            "title": "Cloud Alliances Business Development Lead",
+            "date": "2026-11-23T03:45:31+00:00",
+            "is_remote": true,
+            "role_family": "Product"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156670-adoption-strategist-latam"
+        },
+        "content": {
+            "company": "ElevenLabs",
+            "title": "Adoption Strategist - LATAM",
+            "date": "2026-11-23T03:45:29+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156642-risk-intelligence-manager"
+        },
+        "content": {
+            "company": "Signifyd",
+            "title": "Risk Intelligence Manager",
+            "date": "2026-11-23T03:45:28+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156630-senior-data-analyst-2"
+        },
+        "content": {
+            "company": "ShopFully",
+            "title": "Senior Data Analyst",
+            "date": "2026-11-23T03:45:26+00:00",
+            "is_remote": true,
+            "role_family": "Data & Analytics"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156623-head-of-data-feeds"
+        },
+        "content": {
+            "company": "YipitData",
+            "title": "Head of Data Feeds",
+            "date": "2026-11-23T03:45:24+00:00",
+            "is_remote": true,
+            "role_family": "Data & Analytics"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156617-business-development-representative-mexico-2"
+        },
+        "content": {
+            "company": "Palmstreet",
+            "title": "Business Development Representative, Mexico",
+            "date": "2026-11-23T03:45:22+00:00",
+            "is_remote": true,
+            "role_family": "Product"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156598-senior-site-reliability-engineer-ii"
+        },
+        "content": {
+            "company": "Juniper Square",
+            "title": "Senior Site Reliability Engineer II",
+            "date": "2026-11-23T03:45:19+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156649-account-executive-new-markets"
+        },
+        "content": {
+            "company": "Medely",
+            "title": "Account Executive - New Markets",
+            "date": "2026-11-23T03:45:18+00:00",
+            "is_remote": true,
+            "role_family": "Growth & Sales"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156646-it-lead"
+        },
+        "content": {
+            "company": "ClassDojo",
+            "title": "IT Lead",
+            "date": "2026-11-23T03:45:16+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156643-senior-software-engineer-developer-experience-ai-platform-team"
+        },
+        "content": {
+            "company": "ClassDojo",
+            "title": "Senior Software Engineer, Developer Experience & AI Platform team",
+            "date": "2026-11-23T03:45:15+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156640-engineering-leader-platform-engineering"
+        },
+        "content": {
+            "company": "ClassDojo",
+            "title": "Engineering Leader, Platform Engineering",
+            "date": "2026-11-23T03:45:13+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156636-senior-manager-visual-design"
+        },
+        "content": {
+            "company": "Dandy",
+            "title": "Senior Manager, Visual Design",
+            "date": "2026-11-23T03:45:11+00:00",
+            "is_remote": true,
+            "role_family": "Design"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156634-gtm-operations-lead"
+        },
+        "content": {
+            "company": "Jobber",
+            "title": "GTM Operations Lead",
+            "date": "2026-11-23T03:45:10+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156619-business-development-associate-consumer"
+        },
+        "content": {
+            "company": "AppLovin",
+            "title": "Business Development Associate (Consumer)",
+            "date": "2026-11-23T03:45:08+00:00",
+            "is_remote": true,
+            "role_family": "Product"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156571-engineering-manager-ceph-distributed-storage-2"
+        },
+        "content": {
+            "company": "Canonical",
+            "title": "Engineering Manager- Ceph & Distributed Storage",
+            "date": "2026-11-23T03:40:52+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156578-business-development-representative-20"
+        },
+        "content": {
+            "company": "Canonical",
+            "title": "Business Development Representative",
+            "date": "2026-11-23T03:40:50+00:00",
+            "is_remote": true,
+            "role_family": "Product"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156586-associate-renewals-specialist"
+        },
+        "content": {
+            "company": "NetDocuments",
+            "title": "Associate Renewals Specialist",
+            "date": "2026-11-23T03:40:48+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156590-renewals-specialist"
+        },
+        "content": {
+            "company": "NetDocuments",
+            "title": "Renewals Specialist",
+            "date": "2026-11-23T03:40:47+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156593-senior-manager-software-engineering-ai"
+        },
+        "content": {
+            "company": "NetDocuments",
+            "title": "Senior Manager, Software Engineering - AI",
+            "date": "2026-11-23T03:40:45+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156570-engineering-director-commercial-systems"
+        },
+        "content": {
+            "company": "Canonical",
+            "title": "Engineering Director - Commercial Systems",
+            "date": "2026-11-23T03:40:43+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156580-business-services-team-manager"
+        },
+        "content": {
+            "company": "Canonical",
+            "title": "Business Services Team Manager",
+            "date": "2026-11-23T03:40:42+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156569-engineering-director-business-data"
+        },
+        "content": {
+            "company": "Canonical",
+            "title": "Engineering Director - Business Data",
+            "date": "2026-11-23T03:40:40+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156558-senior-software-engineer-backend-4"
+        },
+        "content": {
+            "company": "Customer.io",
+            "title": "Senior Software Engineer, Backend",
+            "date": "2026-11-23T03:40:38+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156625-insights-associate-retail"
+        },
+        "content": {
+            "company": "YipitData",
+            "title": "Insights Associate - Retail",
+            "date": "2026-11-23T03:40:36+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156621-associate-demand-generation-manager"
+        },
+        "content": {
+            "company": "YipitData",
+            "title": "Associate Demand Generation Manager",
+            "date": "2026-11-23T03:40:35+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156587-creative-operations-manager"
+        },
+        "content": {
+            "company": "Toptal",
+            "title": "Creative Operations Manager",
+            "date": "2026-11-23T03:40:33+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156620-regional-general-manager-market-performance-western-us"
+        },
+        "content": {
+            "company": "Luna Physical Therapy",
+            "title": "Regional General Manager, Market Performance Western US",
+            "date": "2026-11-23T03:40:31+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156594-enterprise-sales-development-representative-us-based"
+        },
+        "content": {
+            "company": "Toptal",
+            "title": "Enterprise Sales Development Representative - US-Based",
+            "date": "2026-11-23T03:40:30+00:00",
+            "is_remote": true,
+            "role_family": "Product"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156583-cloud-platform-engineer"
+        },
+        "content": {
+            "company": "Supabase",
+            "title": "Cloud Platform Engineer",
+            "date": "2026-11-23T03:40:28+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156582-performance-engineer-benchmarking"
+        },
+        "content": {
+            "company": "Supabase",
+            "title": "Performance Engineer - Benchmarking",
+            "date": "2026-11-23T03:40:27+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156581-performance-engineer-performance-analysis-tuning"
+        },
+        "content": {
+            "company": "Supabase",
+            "title": "Performance Engineer - Performance Analysis & Tuning",
+            "date": "2026-11-23T03:40:25+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156579-release-engineer"
+        },
+        "content": {
+            "company": "Supabase",
+            "title": "Release Engineer",
+            "date": "2026-11-23T03:40:24+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156568-senior-backend-engineer-cloud-platform"
+        },
+        "content": {
+            "company": "ClickUp",
+            "title": "Senior Backend Engineer, Cloud Platform",
+            "date": "2026-11-23T03:40:21+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Jobicy",
+            "url": "https://jobicy.com/jobs/156567-sr-engineer-infrastructure-security"
+        },
+        "content": {
+            "company": "Zapier",
+            "title": "Sr. Engineer, Infrastructure Security",
+            "date": "2026-11-23T03:40:19+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.com/jobs/companies/adlicious/campaign-manager-hamburg-194087"
+        },
+        "content": {
+            "company": "adlicious",
+            "title": "Campaign Manager (m/w/d)",
+            "date": "2026-11-23T10:30:44+00:00",
+            "is_remote": false,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.com/jobs/companies/firstlead-gmbh/trainee-im-bereich-online-marketing-e-commerce-berlin-296352"
+        },
+        "content": {
+            "company": "Firstlead",
+            "title": "Trainee (m/w/d) im Bereich Online-Marketing/E-Commerce",
+            "date": "2026-11-23T10:30:44+00:00",
+            "is_remote": false,
+            "role_family": "Growth & Sales"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.com/jobs/companies/xpertsone/teamleiter-im-finanzvertrieb-german-speaking-celle-174679"
+        },
+        "content": {
+            "company": "XpertsOne",
+            "title": "Teamleiter (m/w/d) im Finanzvertrieb (German Speaking)",
+            "date": "2026-11-23T10:20:12+00:00",
+            "is_remote": false,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.com/jobs/companies/abh24-gmbh-co-kg/trainee-online-marketing-manager-bielefeld-394552"
+        },
+        "content": {
+            "company": "ABH24 & . KG",
+            "title": "Trainee Online Marketing Manager (m/w/d)",
+            "date": "2026-11-23T09:30:54+00:00",
+            "is_remote": false,
+            "role_family": "Growth & Sales"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.com/jobs/companies/smarketer-group/teamlead-operations-berlin-448614"
+        },
+        "content": {
+            "company": "Smarketer Group",
+            "title": "Teamlead Operations (w/m/d)",
+            "date": "2026-11-23T09:00:57+00:00",
+            "is_remote": false,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.com/jobs/companies/reonic/product-manager-ux-ui-focus-ai-x-greentech-augsburg-97347"
+        },
+        "content": {
+            "company": "Reonic",
+            "title": "Product Manager - UX/UI Focus (AI x Greentech) (m/f/d)",
+            "date": "2026-11-23T06:40:15+00:00",
+            "is_remote": false,
+            "role_family": "Product"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.com/jobs/companies/reonic/ai-product-manager-ai-x-greentech-augsburg-214130"
+        },
+        "content": {
+            "company": "Reonic",
+            "title": "AI Product Manager - (AI x Greentech) (m/f/d)",
+            "date": "2026-11-23T06:40:15+00:00",
+            "is_remote": false,
+            "role_family": "Product"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.com/jobs/companies/buena/teamleiter-immobilienverwaltung-berlin-239448"
+        },
+        "content": {
+            "company": "Buena",
+            "title": "Teamleiter Immobilienverwaltung (m/f/d)",
+            "date": "2026-11-23T06:40:14+00:00",
+            "is_remote": false,
+            "role_family": "Data & Analytics"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.com/jobs/companies/rws-trainai/ai-data-specialist-german-berlin-301990"
+        },
+        "content": {
+            "company": "RWS TrainAI",
+            "title": "AI Data Specialist - German",
+            "date": "2026-11-23T06:26:57+00:00",
+            "is_remote": false,
+            "role_family": "Data & Analytics"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.com/jobs/companies/heimer-marketing-gmbh/digital-designer-fur-e-mail-e-commerce-hamburg-55717"
+        },
+        "content": {
+            "company": "Heimer Marketing",
+            "title": "Digital Designer f\u00fcr E-Mail & E-Commerce (m/w/d)",
+            "date": "2026-11-23T05:30:28+00:00",
+            "is_remote": false,
+            "role_family": "Design"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/group-master-data-manager-customers-dusseldorf-280263"
+        },
+        "content": {
+            "company": "Intersnack IT KG",
+            "title": "Group Master Data Manager Customers",
+            "date": "2026-11-23T00:31:19+00:00",
+            "is_remote": false,
+            "role_family": "Data & Analytics"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.com/jobs/companies/vestiairecollective/senior-data-scientist-applied-scientist-berlin-487392"
+        },
+        "content": {
+            "company": "Vestiairecollective",
+            "title": "Senior Data Scientist - Applied Scientist",
+            "date": "2026-11-23T00:07:14+00:00",
+            "is_remote": false,
+            "role_family": "Research"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-data-engineer-united-kingdom-208895"
+        },
+        "content": {
+            "company": "Kpler",
+            "title": "Senior Data Engineer",
+            "date": "2026-11-23T06:26:58+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-ai-payments-app-london-370710"
+        },
+        "content": {
+            "company": "Bjak",
+            "title": "Lead Engineer - AI Payments App",
+            "date": "2026-11-23T03:42:53+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-ai-native-email-app-london-444103"
+        },
+        "content": {
+            "company": "Bjak",
+            "title": "Engineering Manager - AI-Native Email App",
+            "date": "2026-11-23T03:42:53+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-ai-payments-app-london-489211"
+        },
+        "content": {
+            "company": "Bjak",
+            "title": "Engineering Manager - AI Payments App",
+            "date": "2026-11-23T03:42:53+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-ai-native-email-app-london-62973"
+        },
+        "content": {
+            "company": "Bjak",
+            "title": "Lead Engineer - AI-Native Email App",
+            "date": "2026-11-23T03:42:53+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.co.uk/jobs/companies/kwalee/senior-data-analyst-leamington-spa-england-307401"
+        },
+        "content": {
+            "company": "Kwalee",
+            "title": "Senior Data Analyst",
+            "date": "2026-11-23T03:26:21+00:00",
+            "is_remote": false,
+            "role_family": "Data & Analytics"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/xerus-conseil/chef-de-projet-senior-data-center-paris-19056"
+        },
+        "content": {
+            "company": "XERUS CONSEIL",
+            "title": "Chef de Projet senior Data Center",
+            "date": "2026-11-23T10:01:07+00:00",
+            "is_remote": false,
+            "role_family": "Data & Analytics"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/lemrock/ai-engineer-paris-458937"
+        },
+        "content": {
+            "company": "Lemrock",
+            "title": "AI Engineer",
+            "date": "2026-11-23T06:40:17+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/engineering-manager-ai-platform-paris-la-defense-312019"
+        },
+        "content": {
+            "company": "DiliTrust",
+            "title": "Engineering Manager - AI platform",
+            "date": "2026-11-23T06:26:58+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/kpler/senior-data-engineer-financial-flows-france-494969"
+        },
+        "content": {
+            "company": "Kpler",
+            "title": "Senior Data Engineer - Financial Flows",
+            "date": "2026-11-23T06:26:57+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/theodo/forward-deployed-engineer-cdi-paris-theodo-ai-modernisation-389755"
+        },
+        "content": {
+            "company": "Theodo",
+            "title": "Forward Deployed Engineer - CDI Paris - Theodo AI-Modernisation",
+            "date": "2026-11-23T03:26:20+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/theodo/consultant-ai-advisory-stage-de-fin-detudes-paris-theodo-data-ai-26169"
+        },
+        "content": {
+            "company": "Theodo",
+            "title": "Consultant AI Advisory - Stage de fin d'\u00e9tudes Paris - Theodo Data & AI",
+            "date": "2026-11-23T03:26:20+00:00",
+            "is_remote": false,
+            "role_family": "Data & Analytics"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/theodo/ai-engineer-stage-de-fin-detudes-paris-theodo-data-ai-291953"
+        },
+        "content": {
+            "company": "Theodo",
+            "title": "AI Engineer - Stage de fin d'\u00e9tudes Paris - Theodo Data & AI",
+            "date": "2026-11-23T03:26:20+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/senior-applied-ai-manager-f-h-puteaux-474357"
+        },
+        "content": {
+            "company": "ILLUIN",
+            "title": "Senior Applied AI Manager (F/H)",
+            "date": "2026-11-23T00:40:13+00:00",
+            "is_remote": false,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/doubletrade-responsable-commercial-account-executive-tertiaire-h-f-cdi-carquefou-26791"
+        },
+        "content": {
+            "company": "INTESCIA GROUP",
+            "title": "Doubletrade - Responsable Commercial / Account Executive - Tertiaire (H/F) - Cdi",
+            "date": "2026-11-23T00:31:23+00:00",
+            "is_remote": false,
+            "role_family": "Growth & Sales"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/explore-ingenieur-data-senior-senior-data-engineer-h-f-cdi-carquefou-3364"
+        },
+        "content": {
+            "company": "INTESCIA GROUP",
+            "title": "EXPLORE - Ing\u00e9nieur DATA s\u00e9nior / Senior DATA Engineer (H/F) - CDI",
+            "date": "2026-11-23T00:31:23+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/engineering-manager-spain-paris-44591"
+        },
+        "content": {
+            "company": "Doctrine",
+            "title": "Engineering Manager - Spain \ud83c\uddea\ud83c\uddf8",
+            "date": "2026-11-23T00:07:18+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/vestiairecollective/data-analyst-maternity-cover-temporary-contract-paris-492343"
+        },
+        "content": {
+            "company": "Vestiairecollective",
+            "title": "Data Analyst (Maternity Cover / Temporary contract)",
+            "date": "2026-11-23T00:07:16+00:00",
+            "is_remote": false,
+            "role_family": "Data & Analytics"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/diabolocom/database-engineer-stateful-services-paris-243078"
+        },
+        "content": {
+            "company": "Diabolocom",
+            "title": "Database Engineer (Stateful Services)",
+            "date": "2026-11-23T00:07:15+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/imaginepartners/release-train-engineer-senior-cloud-ai-services-freelance-saint-denis-37973"
+        },
+        "content": {
+            "company": "ImaginePartners",
+            "title": "Release Train Engineer senior \u2013 Cloud & AI Services - FREELANCE",
+            "date": "2026-11-22T23:30:38+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/make-me-stay/stagiaire-bras-droit-ceo-neuilly-sur-seine-207143"
+        },
+        "content": {
+            "company": "Make Me Stay",
+            "title": "Stagiaire bras droit CEO",
+            "date": "2026-11-22T21:00:34+00:00",
+            "is_remote": false,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/propulsion-data-modeling-engineer-bordeaux-26107"
+        },
+        "content": {
+            "company": "The Exploration",
+            "title": "Propulsion Data & Modeling Engineer",
+            "date": "2026-11-22T15:40:13+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/propulsion-ait-principal-engineer-bordeaux-361249"
+        },
+        "content": {
+            "company": "The Exploration",
+            "title": "Propulsion AIT Principal Engineer",
+            "date": "2026-11-22T15:40:13+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.fr/jobs/companies/joivy/assistante-ressources-humaines-stage-lyon-363305"
+        },
+        "content": {
+            "company": "Joivy",
+            "title": "Assistant(e) Ressources Humaines - Stage",
+            "date": "2026-11-22T15:31:19+00:00",
+            "is_remote": false,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.ch/jobs/companies/acodis-ag/freelance-product-manager-ai-for-quality-regulatory-zurich-201759"
+        },
+        "content": {
+            "company": "Acodis AG",
+            "title": "Freelance Product Manager \u2013 AI for Quality & Regulatory",
+            "date": "2026-11-23T10:01:08+00:00",
+            "is_remote": true,
+            "role_family": "Product"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/business-analyst-processes-and-data-zurich-111593"
+        },
+        "content": {
+            "company": "SwissPeak Partners",
+            "title": "Business Analyst Processes and Data",
+            "date": "2026-11-22T12:31:14+00:00",
+            "is_remote": false,
+            "role_family": "Data & Analytics"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.nl/jobs/companies/vitestro/master-data-engineer-utrecht-309006"
+        },
+        "content": {
+            "company": "Vitestro",
+            "title": "Master Data Engineer",
+            "date": "2026-11-23T06:31:42+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.nl/jobs/companies/rws-trainai/ai-data-specialist-dutch-amsterdam-321383"
+        },
+        "content": {
+            "company": "RWS TrainAI",
+            "title": "AI Data Specialist - Dutch",
+            "date": "2026-11-23T06:26:58+00:00",
+            "is_remote": false,
+            "role_family": "Data & Analytics"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/stagiaire-backend-ai-developer-utrecht-379182"
+        },
+        "content": {
+            "company": "Berenschot Groep B.V",
+            "title": "Stagiair(e) Backend AI Developer",
+            "date": "2026-11-23T00:31:23+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/stagiaire-backend-developer-utrecht-320484"
+        },
+        "content": {
+            "company": "Berenschot Groep B.V",
+            "title": "Stagiair(e) Backend developer",
+            "date": "2026-11-23T00:31:23+00:00",
+            "is_remote": false,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/stagiaire-marketing-communicatie-en-pr-utrecht-385778"
+        },
+        "content": {
+            "company": "Berenschot Groep B.V",
+            "title": "Stagiair(e) marketing, communicatie en pr",
+            "date": "2026-11-23T00:31:23+00:00",
+            "is_remote": false,
+            "role_family": "Growth & Sales"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Arbeitnow",
+            "url": "https://www.arbeitnow.nl/jobs/companies/the-sharing-group/stage-privacy-data-amsterdam-267801"
+        },
+        "content": {
+            "company": "The Sharing Group",
+            "title": "Stage Privacy & Data",
+            "date": "2026-11-22T21:31:30+00:00",
+            "is_remote": false,
+            "role_family": "Data & Analytics"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/xperteez-technology/jobs/stem-expert-remote-contract-3276095955?utm_source=api"
+        },
+        "content": {
+            "company": "Xperteez",
+            "title": "STEM Expert, Remote- Contract",
+            "date": "2026-11-23T09:58:27+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/lifelancer/jobs/project-oversight-ad-rems-team?utm_source=api"
+        },
+        "content": {
+            "company": "Lifelancer",
+            "title": "Project Oversight AD, REMS Team",
+            "date": "2026-11-23T09:50:32+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/silverback-strategies/jobs/growth-manager-marketing-sales-copy?utm_source=api"
+        },
+        "content": {
+            "company": "Silverback Strategies",
+            "title": "Growth Manager, Marketing & Sales (copy)",
+            "date": "2026-11-23T09:43:19+00:00",
+            "is_remote": true,
+            "role_family": "Growth & Sales"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/engiflex/jobs/product-owner-cloud-et-paas-cdi-ou-freelance?utm_source=api"
+        },
+        "content": {
+            "company": "EngiFlex",
+            "title": "Product Owner Cloud et PaaS (CDI ou freelance)",
+            "date": "2026-11-23T09:30:32+00:00",
+            "is_remote": true,
+            "role_family": "Product"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/samsara/jobs/customer-success-manager-french-speaker?utm_source=api"
+        },
+        "content": {
+            "company": "Samsara",
+            "title": "Customer Success Manager - French Speaker",
+            "date": "2026-11-23T09:27:43+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/samsara/jobs/accounts-payable-specialist?utm_source=api"
+        },
+        "content": {
+            "company": "Samsara",
+            "title": "Accounts Payable Specialist",
+            "date": "2026-11-23T09:27:43+00:00",
+            "is_remote": true,
+            "role_family": "Growth & Sales"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/samsara/jobs/implementation-consultant-8039665811?utm_source=api"
+        },
+        "content": {
+            "company": "Samsara",
+            "title": "Implementation Consultant",
+            "date": "2026-11-23T09:27:42+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/samsara/jobs/security-operations-engineer?utm_source=api"
+        },
+        "content": {
+            "company": "Samsara",
+            "title": "Security Operations Engineer",
+            "date": "2026-11-23T09:27:41+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/nttdata/jobs/data-migration-engineer-informatica-dbt-remote-tx-us?utm_source=api"
+        },
+        "content": {
+            "company": "NTT DATA",
+            "title": "Data Migration Engineer (Informatica/DBT) (Remote, TX, US)",
+            "date": "2026-11-23T09:27:40+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/ngen/jobs/tier-2-technician-third-shift-137897789?utm_source=api"
+        },
+        "content": {
+            "company": "NGEN",
+            "title": "Tier 2 Technician \u2013 Third Shift",
+            "date": "2026-11-23T09:27:37+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/veeam-software/jobs/executive-assistant-remote-central-or-west-coast?utm_source=api"
+        },
+        "content": {
+            "company": "Veeam Software",
+            "title": "Executive Assistant (Remote Central or West Coast)",
+            "date": "2026-11-23T09:27:37+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/te-connectivity/jobs/senior-manufacturing-engineer-molding-stamping-auto-assembly-machining?utm_source=api"
+        },
+        "content": {
+            "company": "TE Connectivity",
+            "title": "Senior Manufacturing Engineer - Molding / Stamping / Auto Assembly / Machining /",
+            "date": "2026-11-23T09:27:36+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/laposte/jobs/charge-d-affaires-clientele-professionnelle-a-distance-f-h-chalons-en-champagne?utm_source=api"
+        },
+        "content": {
+            "company": "laposte",
+            "title": "Charg\u00e9 d'affaires client\u00e8le professionnelle \u00e0 distance F/H (Ch\u00e2lons-en-Champagne",
+            "date": "2026-11-23T09:27:36+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/aps-bank-plc/jobs/aps-43-25-senior-data-developer?utm_source=api"
+        },
+        "content": {
+            "company": "APS Bank plc",
+            "title": "APS.43.25 - Senior Data Developer",
+            "date": "2026-11-23T09:27:23+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/infracloud/jobs/spark-developer-5283868229?utm_source=api"
+        },
+        "content": {
+            "company": "InfraCloud",
+            "title": "Spark Developer",
+            "date": "2026-11-23T09:27:23+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/funkycorp/jobs/localization-quality-controller-korean-project-based-freelance-position?utm_source=api"
+        },
+        "content": {
+            "company": "FunkyCorp",
+            "title": "Localization Quality Controller - Korean - Project-based Freelance Position",
+            "date": "2026-11-23T09:27:23+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/funkycorp/jobs/freelance-english-korean-or-japanese-korean-linguist?utm_source=api"
+        },
+        "content": {
+            "company": "FunkyCorp",
+            "title": "Freelance English - Korean or Japanese - Korean Linguist",
+            "date": "2026-11-23T09:27:22+00:00",
+            "is_remote": true,
+            "role_family": "Design"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/steampunk/jobs/integration-developer?utm_source=api"
+        },
+        "content": {
+            "company": "Steampunk",
+            "title": "Integration Developer",
+            "date": "2026-11-23T09:27:19+00:00",
+            "is_remote": true,
+            "role_family": "Engineering"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/contently/jobs/managing-editor-freelance-1917275207?utm_source=api"
+        },
+        "content": {
+            "company": "Contently",
+            "title": "Managing Editor (Freelance)",
+            "date": "2026-11-23T09:27:18+00:00",
+            "is_remote": true,
+            "role_family": "Operations"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    },
+    {
+        "schemaVersion": "1.0",
+        "recordType": "JOB",
+        "source": {
+            "name": "Himalayas",
+            "url": "https://himalayas.app/companies/astrana-health/jobs/manager-advanced-analytics-6694722543?utm_source=api"
+        },
+        "content": {
+            "company": "Astrana Health",
+            "title": "Manager - Advanced Analytics",
+            "date": "2026-11-23T09:27:18+00:00",
+            "is_remote": true,
+            "role_family": "Data & Analytics"
+        },
+        "collectedAt": "2026-11-23T12:03:08.968218+00:00"
+    }
+]
