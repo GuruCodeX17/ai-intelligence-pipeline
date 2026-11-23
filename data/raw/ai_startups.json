@@ -1,0 +1,115 @@
+[
+    {
+        "startup_name": "LeadGenius",
+        "description": "LeadGenius is the most efficient way to equip sales and marketing teams with custom B2B lead data at scale. Our data experts conduct ongoing research to automatically supply teams with accurate contact information and hard-to-acquire data points for your most valuable buyer personas.\r\n\r\nBy combining a remote global workforce, custom data, and machine learning, LeadGenius delivers the highest lead generation value in the marketplace.",
+        "one_liner": "LeadGenius is an account-based marketing and lead generation…",
+        "website": "http://leadgenius.com",
+        "startup_url": "https://www.ycombinator.com/companies/leadgenius",
+        "industry": "B2B",
+        "subindustry": "B2B -> Sales",
+        "tags": [
+            "B2B",
+            "Sales",
+            "Marketing",
+            "AI"
+        ],
+        "location": "San Francisco, CA, USA; Berkeley, CA, USA",
+        "team_size": 50,
+        "batch": "Summer 2011",
+        "status": "Active",
+        "is_hiring": false,
+        "launched_at": 1326789373,
+        "source": "Y Combinator",
+        "source_type": "Community-maintained YC API mirror"
+    },
+    {
+        "startup_name": "Directed Edge",
+        "description": "Directed Edge delivers Amazon-like \"People who bought this also bought...\" and \"We think you'd also like\"-style recommendations to other sites, using existing data being collected such as purchase or click histories. Recommendations are served in real-time via a REST API, with language bindings in several programming languages to make integration easy.",
+        "one_liner": "Product recommendations.",
+        "website": "http://directededge.com",
+        "startup_url": "https://www.ycombinator.com/companies/directed-edge",
+        "industry": "Consumer",
+        "subindustry": "Consumer -> Home and Personal",
+        "tags": [
+            "Machine Learning",
+            "AI",
+            "Recommendation System"
+        ],
+        "location": "Berlin, Berlin, Germany; San Francisco, CA, USA",
+        "team_size": 2,
+        "batch": "Summer 2009",
+        "status": "Active",
+        "is_hiring": false,
+        "launched_at": 1326790627,
+        "source": "Y Combinator",
+        "source_type": "Community-maintained YC API mirror"
+    },
+    {
+        "startup_name": "Olark",
+        "description": "Built for the marketer doing five jobs at once. Easily install an Olark AI agent to answer questions, qualify visitors, and know exactly when to bring in a human.\r\n\r\nOlark is easy-to-use live chat software that lets you talk to customers on your website. \r\n\r\nOlark can help you track leads, drive sales, increase conversions, and provide great customer service. Real-time visitor information like login name, geographic location, purchase history and cart contents help you personalize every interaction and strengthen customer relationships. \r\n\r\nSign up and start making your customers happier today!\r\n\r\nUse our previewer on https://olark.com to try it on your website in less than 60 seconds.",
+        "one_liner": "Olark gives you an AI agent that works your marketing funnel 24/7",
+        "website": "http://olark.com",
+        "startup_url": "https://www.ycombinator.com/companies/olark",
+        "industry": "B2B",
+        "subindustry": "B2B -> Retail",
+        "tags": [
+            "Sales",
+            "Marketing",
+            "Customer Service",
+            "Chat",
+            "AI"
+        ],
+        "location": "San Francisco, CA, USA; Remote",
+        "team_size": 15,
+        "batch": "Summer 2009",
+        "status": "Active",
+        "is_hiring": false,
+        "launched_at": 1326790657,
+        "source": "Y Combinator",
+        "source_type": "Community-maintained YC API mirror"
+    },
+    {
+        "startup_name": "JustSpotted",
+        "description": "The artist-formerly-known-as Scoopler is a real-time search engine. It aggregates and organizes content being shared on the Internet as it happens, like eye-witness reports of breaking news, photos and videos from big events, and links to the hottest memes of the day. It does this by constantly indexing live updates from services including Twitter, Flickr, Digg, Delicious and more. When users search for a topic on Scoopler, they get the most relevant results, updated in real-time.\n\nScoopler has now become JustSpotted, a celebrity-tracking tool, meant to give fans an idea of what their favorite celebrities are up to at any given moment. JustSpotted, like Scoopler, is a data-aggregator, yet JustSpotted collects from Twitter, Facebook, and Foursquare -- alongside their own data theyâ€™ll be collecting from users who actual spot celebrities in the wild. All the information we aggregate is publicly available and you can even do a search on Twitter yourself and find sightings of celebrities. We're just the first people to organize it on a map and in such a way that it's easy to consume and ENJOY.â€\n\nJustSpotted is about connecting with celebs. All the sightings on our website are naturally occurring events where an everyday person bumps into a celebrity as a chance occurrence. Back in the day, when you saw a celebrity while you were out and about the first thing you would have done was phone or text a friend. In the new age of social media, the first thing you do is share it on Facebook or Twitter. This phenomena is already happening.\n\nThe service, which launches the week of October 11, 2010, is the latest creation by AJ Asver, Dilan Jarawardane and Benjamin Tauber.",
+        "one_liner": "Acquired by Google in 2011",
+        "website": "http://justspotted.com",
+        "startup_url": "https://www.ycombinator.com/companies/justspotted",
+        "industry": "Consumer",
+        "subindustry": "Consumer -> Content",
+        "tags": [
+            "AI",
+            "ML"
+        ],
+        "location": "San Francisco, CA, USA; Copenhagen, Denmark",
+        "team_size": 2,
+        "batch": "Summer 2008",
+        "status": "Acquired",
+        "is_hiring": false,
+        "launched_at": 1326791006,
+        "source": "Y Combinator",
+        "source_type": "Community-maintained YC API mirror"
+    },
+    {
+        "startup_name": "Canopy Labs",
+        "description": "Every customer reaches a buying decision in their unique way – Canopy Labs helps businesses to track and optimize their customer journey.\n\nUsing our platform, businesses can plan more targeted marketing campaigns and optimize their lead lists, with a focus on maximizing revenue and sales growth. Our platform is currently being used in a variety of industries, including sports, ticket sales, daily deals, and online retail, and customers ranging from $10B retailers to small online businesses.\n\nCanopy Labs has offices in Toronto and New York City. The company is led by CEO Wojciech Gryc, who is a former McKinsey consultant and Rhodes Scholar, and CTO Jorge Escobedo, who has a PhD in Theoretical Physics and researched string theory. It is backed by Y Combinator, BDC IT Ventures Fund, and Valar Ventures.",
+        "one_liner": "Canopy Labs automates customer analytics for small and medium-sized…",
+        "website": "http://canopylabs.com",
+        "startup_url": "https://www.ycombinator.com/companies/canopy-labs",
+        "industry": "B2B",
+        "subindustry": "B2B -> Analytics",
+        "tags": [
+            "Analytics",
+            "Marketing",
+            "CRM",
+            "AI"
+        ],
+        "location": "New York City, NY, USA; New York, NY, USA",
+        "team_size": 11,
+        "batch": "Summer 2012",
+        "status": "Inactive",
+        "is_hiring": false,
+        "launched_at": 1336096527,
+        "source": "Y Combinator",
+        "source_type": "Community-maintained YC API mirror"
+    }
+]

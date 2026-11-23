@@ -1,0 +1,47 @@
+[
+    {
+        "product_name": "Inkling 2 Mini",
+        "description": "26B looped model for coding on your laptop",
+        "product_url": "https://www.producthunt.com/products/tinker-2",
+        "published_at": "2026-11-22T19:37:24-08:00",
+        "updated_at": "2026-11-23T01:32:38-08:00",
+        "category": "Artificial Intelligence",
+        "source": "Product Hunt"
+    },
+    {
+        "product_name": "Replit Missions",
+        "description": "Set a budget, coordinate teams of AI agents,",
+        "product_url": "https://www.producthunt.com/products/replit",
+        "published_at": "2026-11-22T09:13:25-08:00",
+        "updated_at": "2026-11-23T01:32:50-08:00",
+        "category": "Artificial Intelligence",
+        "source": "Product Hunt"
+    },
+    {
+        "product_name": "Modem",
+        "description": "Find, fix, and follow up on every customer concern",
+        "product_url": "https://www.producthunt.com/products/modem",
+        "published_at": "2026-08-17T12:08:59-07:00",
+        "updated_at": "2026-11-23T01:32:51-08:00",
+        "category": "Artificial Intelligence",
+        "source": "Product Hunt"
+    },
+    {
+        "product_name": "Gauth Personal Study Agent",
+        "description": "An AI study agent that remembers where you struggle",
+        "product_url": "https://www.producthunt.com/products/gauth-ai-course",
+        "published_at": "2026-11-20T09:12:34-08:00",
+        "updated_at": "2026-11-23T01:32:49-08:00",
+        "category": "Artificial Intelligence",
+        "source": "Product Hunt"
+    },
+    {
+        "product_name": "Motionflare",
+        "description": "Turn your website into a stunning launch video in minutes",
+        "product_url": "https://www.producthunt.com/products/motionflare",
+        "published_at": "2026-11-14T01:50:44-08:00",
+        "updated_at": "2026-11-23T01:32:48-08:00",
+        "category": "Artificial Intelligence",
+        "source": "Product Hunt"
+    }
+]

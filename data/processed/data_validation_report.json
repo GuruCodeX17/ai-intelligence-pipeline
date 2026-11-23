@@ -1,0 +1,48 @@
+{
+    "research_papers": {
+        "dataset": "research_papers",
+        "total_records": 5,
+        "valid_records": 5,
+        "invalid_records": 0,
+        "warning_count": 0,
+        "issues": []
+    },
+    "github_repositories": {
+        "dataset": "github_repositories",
+        "total_records": 5,
+        "valid_records": 5,
+        "invalid_records": 0,
+        "warning_count": 1,
+        "issues": [
+            {
+                "record": 3,
+                "field": "description",
+                "severity": "warning",
+                "message": "Optional field is empty."
+            }
+        ]
+    },
+    "ai_products": {
+        "dataset": "ai_products",
+        "total_records": 5,
+        "valid_records": 5,
+        "invalid_records": 0,
+        "warning_count": 0,
+        "issues": []
+    },
+    "ai_startups": {
+        "dataset": "ai_startups",
+        "total_records": 5,
+        "valid_records": 5,
+        "invalid_records": 0,
+        "warning_count": 1,
+        "issues": [
+            {
+                "record": 4,
+                "field": "description",
+                "severity": "warning",
+                "message": "Possible text encoding corruption detected."
+            }
+        ]
+    }
+}
