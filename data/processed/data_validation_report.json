@@ -1,21 +1,364 @@
 {
     "research_papers": {
         "dataset": "research_papers",
-        "total_records": 5,
-        "valid_records": 5,
-        "invalid_records": 0,
+        "total_records": 1000,
+        "valid_records": 944,
+        "invalid_records": 56,
         "warning_count": 0,
-        "issues": []
+        "issues": [
+            {
+                "record": 13,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 33,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 54,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 56,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 58,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 62,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 98,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 120,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 125,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 126,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 127,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 134,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 136,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 141,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 142,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 149,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 173,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 179,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 216,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 235,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 245,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 270,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 271,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 283,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 284,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 285,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 318,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 347,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 349,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 353,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 358,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 359,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 429,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 438,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 467,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 495,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 509,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 602,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 652,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 661,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 670,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 675,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 682,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 708,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 732,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 750,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 761,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 763,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 787,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 812,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 895,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 905,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 917,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 919,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 937,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            },
+            {
+                "record": 963,
+                "field": "arxiv_id",
+                "severity": "error",
+                "message": "Duplicate record detected."
+            }
+        ]
     },
     "github_repositories": {
         "dataset": "github_repositories",
         "total_records": 5,
         "valid_records": 5,
         "invalid_records": 0,
-        "warning_count": 1,
+        "warning_count": 2,
         "issues": [
             {
-                "record": 3,
+                "record": 2,
+                "field": "description",
+                "severity": "warning",
+                "message": "Optional field is empty."
+            },
+            {
+                "record": 5,
                 "field": "description",
                 "severity": "warning",
                 "message": "Optional field is empty."
@@ -24,17 +367,17 @@
     },
     "ai_products": {
         "dataset": "ai_products",
-        "total_records": 5,
-        "valid_records": 5,
+        "total_records": 1000,
+        "valid_records": 1000,
         "invalid_records": 0,
         "warning_count": 0,
         "issues": []
     },
     "ai_startups": {
         "dataset": "ai_startups",
-        "total_records": 5,
-        "valid_records": 5,
-        "invalid_records": 0,
+        "total_records": 1000,
+        "valid_records": 974,
+        "invalid_records": 26,
         "warning_count": 1,
         "issues": [
             {
@@ -42,6 +385,162 @@
                 "field": "description",
                 "severity": "warning",
                 "message": "Possible text encoding corruption detected."
+            },
+            {
+                "record": 47,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 51,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 64,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 70,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 73,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 82,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 127,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 154,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 155,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 166,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 172,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 182,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 192,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 295,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 302,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 501,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 565,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 602,
+                "field": "description",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 650,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 673,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 716,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 744,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 789,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 912,
+                "field": "description",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 914,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
+            },
+            {
+                "record": 952,
+                "field": "website",
+                "severity": "error",
+                "message": "Required field is missing or empty."
             }
         ]
     }
